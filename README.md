@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harry Leslie
-- 👀 I’m interested in subjects like Mathematics, Chemistry, Physics and Computer Science
+- 👀 I’m interested in subjects like Mathematics, Electronics and Computer Science
 - Studying for a degree in Computer Science
 - Im also interested in Artifical Intelligence and Data Analysis
 
